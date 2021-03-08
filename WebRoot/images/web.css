@@ -1,0 +1,96 @@
+UNKNOWN {
+	FONT-SIZE: 12px; FILTER: gray; FONT-FAMILY: tahoma
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: tahoma
+}
+.bt {
+	FONT-SIZE: 12px; COLOR: #656565; FONT-FAMILY: Tahoma
+}
+.web1 {
+	FONT-SIZE: 12px; COLOR: #797979; FONT-FAMILY: tahoma
+}
+.web2 {
+	FONT-SIZE: 19pt; COLOR: #797979; FONT-FAMILY: microsoft yahei,simhei
+}
+.web3 {
+	FONT-SIZE: 12px; COLOR: #c10009; FONT-FAMILY: tahoma
+}
+.web4 {
+	FONT-SIZE: 12px; COLOR: #a9a9a9; FONT-FAMILY: tahoma
+}
+.web5 {
+	FONT-SIZE: 12px; COLOR: #7c7c7c; FONT-FAMILY: tahoma
+}
+.web6 {
+	FONT-SIZE: 12px; COLOR: #4f4f4f; FONT-FAMILY: tahoma
+}
+A.web6:link {
+	COLOR: #4f4f4f; TEXT-DECORATION: none
+}
+A.web6:visited {
+	COLOR: #4f4f4f; TEXT-DECORATION: none
+}
+A.web6:hover {
+	FONT-WEIGHT: bold; COLOR: #c5020d; TEXT-DECORATION: underline
+}
+UNKNOWN {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.z01 {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 22px
+}
+.z02 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #333333
+}
+.hong12c {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #333333
+}
+.hong12 {
+	FONT-SIZE: 12px; COLOR: #c10009
+}
+
+
+.hui199 {
+	FONT-SIZE: 16px; COLOR: #666666; TEXT-DECORATION: none
+}
+.hui199 A {
+	FONT-SIZE: 16px; COLOR: #666666; TEXT-DECORATION: none
+}
+.hui199 A:hover {
+	FONT-SIZE: 16px; COLOR: #c10009; TEXT-DECORATION: none
+}
+
+.hui12 {
+	FONT-SIZE: 12px; COLOR: #666666; TEXT-DECORATION: none
+}
+.hui12 A {
+	FONT-SIZE: 12px; COLOR: #666666; TEXT-DECORATION: none
+}
+.hui12 A:hover {
+	FONT-SIZE: 12px; COLOR: #c10009; TEXT-DECORATION: none
+}
+.xiaxuhui {
+	BORDER-BOTTOM: #cccccc 1px dashed
+}
+.qianhui12 {
+	FONT-SIZE: 11px; COLOR: #999999; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+.hong12cc {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #c10009; LINE-HEIGHT: 22px
+}
+.xuxian001 {
+	BORDER-BOTTOM: #e8e8e8 1px dashed
+}
+.zicn01-bule {
+	FONT-SIZE: 12px; COLOR: #0088cc; LINE-HEIGHT: 24px
+}
+.zicn01-red {
+	FONT-SIZE: 12px; COLOR: #db0000; LINE-HEIGHT: 24px
+}
+.zicn01-hui {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 24px
+}
+.zicn01-g {
+	FONT-SIZE: 12px; COLOR: #288f1a; LINE-HEIGHT: 24px
+}

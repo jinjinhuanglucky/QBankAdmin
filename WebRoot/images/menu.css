@@ -1,0 +1,15 @@
+BODY {
+	MARGIN: 0px
+}
+.b1 {
+	FLOAT: left; WIDTH: 207px
+}
+.b2 {
+	FLOAT: left; BACKGROUND-IMAGE: url(menu_3.gif); WIDTH: 207px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 27px
+}
+.b2 A {
+	DISPLAY: block; PADDING-LEFT: 17px; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(menu_3.gif); WIDTH: 190px; COLOR: #333333; PADDING-TOP: 8px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 19px; TEXT-DECORATION: none
+}
+.b2 A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(menu_2.gif); COLOR: #ffffff; BACKGROUND-REPEAT: no-repeat
+}
